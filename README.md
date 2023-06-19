@@ -21,6 +21,15 @@ Congratulations! You have successfully installed Python on your computer.
 
 1. Run run.bat
 
+or in a terminal while in the folder directory run
+
+```bash
+pip install -r requirements.txt
+```
+```bash
+python main.py
+```
+
 
 ## How to Use the Script
 
